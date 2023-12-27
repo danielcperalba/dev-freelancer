@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
                 "projectPath": "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              },
+              "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
               }
             }
           }
