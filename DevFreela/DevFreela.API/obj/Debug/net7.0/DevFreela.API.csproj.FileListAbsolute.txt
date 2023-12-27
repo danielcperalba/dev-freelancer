@@ -31,3 +31,5 @@ C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\Dev
 C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Debug\net7.0\DevFreela.API.pdb
 C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Debug\net7.0\DevFreela.API.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Debug\net7.0\ref\DevFreela.API.dll
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\bin\Debug\net7.0\DevFreela.Core.dll
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\bin\Debug\net7.0\DevFreela.Core.pdb
