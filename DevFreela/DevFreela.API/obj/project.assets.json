@@ -117,6 +117,19 @@
         "runtime": {
           "bin/placeholder/DevFreela.Core.dll": {}
         }
+      },
+      "DevFreela.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DevFreela.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DevFreela.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -475,12 +488,17 @@
       "type": "project",
       "path": "../DevFreela.Core/DevFreela.Core.csproj",
       "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
+    },
+    "DevFreela.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Infrastructure/DevFreela.Infrastructure.csproj",
+      "msbuildProject": "../DevFreela.Infrastructure/DevFreela.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
       "DevFreela.Core >= 1.0.0",
+      "DevFreela.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -562,16 +580,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }

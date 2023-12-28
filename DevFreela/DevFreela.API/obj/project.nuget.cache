@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "0wXlovrjy6NrrB/7ovuU9zC2HNjjD1H3f/C2jLHqF+RbYhS0nDjSGXlj6HqkEe+N2PauEVDRaoXfbjpWu6Kwuw==",
-  "success": false,
+  "dgSpecHash": "G9tM0MbHiEDfdkaLZYDQuQimz5bRVFlDF1rnSRbZDC1f6uySBeqe5e0kKnGcBJPC1McoFHWTZFam0M2/dbkeoA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
@@ -12,15 +12,5 @@
     "C:\\Users\\danie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
