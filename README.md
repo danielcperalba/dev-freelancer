@@ -1,43 +1,41 @@
+<!-- Início do cabeçalho -->
 <h1 align="center">Projeto ASP.NET Core - Formação Avançada</h1>
-<p align="center">
-  Este projeto foi desenvolvido como parte do curso de Formação ASP.NET Core, com o objetivo principal de aprofundar o conhecimento em diversos tópicos essenciais para o desenvolvimento de aplicações robustas.
-</p>
-###Tecnologias e Conceitos Explorados
-Desenvolvimento de APIs com .NET 5: Utilizamos a versão mais recente do .NET para criar APIs eficientes e de alto desempenho.
 
-Arquitetura Limpa: Adotamos a Arquitetura Limpa (Clean Architecture) para promover uma estrutura organizada e de fácil manutenção.
+<!-- Fim do cabeçalho -->
 
-CQRS (Command Query Responsibility Segregation): Implementamos o padrão CQRS para separar as operações de leitura e escrita, otimizando o desempenho e a escalabilidade da aplicação.
+## Visão Geral do Projeto
 
-Entity Framework Core e Dapper: Utilizamos tanto o Entity Framework Core quanto o Dapper como ORMs para facilitar o acesso e a manipulação de dados no banco de dados.
+Este projeto é o resultado do curso de Formação ASP.NET Core, focado em aprimorar habilidades essenciais para o desenvolvimento de aplicações robustas. Durante o curso, dedicamos nosso tempo a aprender e aplicar diversas tecnologias e conceitos fundamentais.
 
-Padrão Repository: Implementamos o padrão Repository para abstrair o acesso aos dados e promover uma melhor organização do código.
+### Tecnologias e Conceitos Explorados
 
-Testes Unitários: Desenvolvemos testes unitários para garantir a qualidade e a confiabilidade do código.
+- **Desenvolvimento de APIs com .NET 5:** Utilizando a versão mais recente do .NET para criar APIs eficientes e de alto desempenho.
 
-Autenticação e Autorização com JWT: Implementamos um sistema robusto de autenticação e autorização utilizando JSON Web Tokens (JWT).
+- **Arquitetura Limpa:** Adotando a Arquitetura Limpa para promover uma estrutura organizada e de fácil manutenção.
 
-Mensageria e Microsserviços: Exploramos o conceito de microsserviços e implementamos um sistema de mensageria para comunicação entre componentes distribuídos.
+- **CQRS (Command Query Responsibility Segregation):** Implementação do padrão CQRS para otimizar o desempenho e a escalabilidade da aplicação, separando as operações de leitura e escrita.
 
-E muitos outros tópicos relevantes para o desenvolvimento moderno de aplicações ASP.NET Core.
+- **Entity Framework Core e Dapper:** Utilização do Entity Framework Core e Dapper como ORMs para facilitar o acesso e a manipulação de dados no banco de dados.
 
-###Como Executar o Projeto
-Pré-requisitos:
+- **Padrão Repository:** Implementação do padrão Repository para abstrair o acesso aos dados, promovendo uma melhor organização do código.
+
+- **Testes Unitários:** Desenvolvimento de testes unitários para garantir a qualidade e a confiabilidade do código.
+
+- **Autenticação e Autorização com JWT:** Implementação de um sistema robusto de autenticação e autorização utilizando JSON Web Tokens (JWT).
+
+- **Mensageria e Microsserviços:** Exploração do conceito de microsserviços e implementação de um sistema de mensageria para comunicação entre componentes distribuídos.
+
+E diversos outros tópicos relevantes para o desenvolvimento moderno de aplicações ASP.NET Core.
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
 Certifique-se de ter o .NET 5 instalado em sua máquina.
 
-###Clone o Repositório:
-bash
-Copy code
+### Clone o Repositório
+
+```bash
 git clone https://github.com/danielcperalba/DevFreelancer
-Configuração do Banco de Dados:
-Atualize a string de conexão no arquivo appsettings.json com as configurações do seu banco de dados.
 
-###Execução do Projeto:
-Navegue até o diretório do projeto e execute o comando:
 
-bash
-Copy code
-dotnet run
-Isso iniciará o projeto localmente, permitindo que você explore e interaja com as funcionalidades implementadas.
-
-Agradecemos por explorar nosso projeto! Sinta-se à vontade para contribuir, abrir issues ou fornecer feedback. Estamos comprometidos em aprimorar continuamente este projeto e compartilhar conhecimento.
