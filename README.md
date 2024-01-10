@@ -1,6 +1,11 @@
-Projeto ASP.NET Core - Formação Avançada
-Este projeto foi desenvolvido como parte do curso de Formação ASP.NET Core, com o objetivo principal de aprofundar o conhecimento em diversos tópicos essenciais para o desenvolvimento de aplicações robustas. Durante o curso, concentramos nossos esforços em aprender e aplicar as seguintes tecnologias e conceitos:
-
+<h1 align="center">Projeto ASP.NET Core - Formação Avançada</h1>
+<p align="center">
+  <img src="https://example.com/sua-imagem.png" alt="Logo do Projeto">
+</p>
+<p align="center">
+  Este projeto foi desenvolvido como parte do curso de Formação ASP.NET Core, com o objetivo principal de aprofundar o conhecimento em diversos tópicos essenciais para o desenvolvimento de aplicações robustas.
+</p>
+Tecnologias e Conceitos Explorados
 Desenvolvimento de APIs com .NET 5: Utilizamos a versão mais recente do .NET para criar APIs eficientes e de alto desempenho.
 
 Arquitetura Limpa: Adotamos a Arquitetura Limpa (Clean Architecture) para promover uma estrutura organizada e de fácil manutenção.
@@ -20,24 +25,22 @@ Mensageria e Microsserviços: Exploramos o conceito de microsserviços e impleme
 E muitos outros tópicos relevantes para o desenvolvimento moderno de aplicações ASP.NET Core.
 
 Como Executar o Projeto
-Para executar o projeto localmente, siga estas etapas:
-
 Pré-requisitos:
-
 Certifique-se de ter o .NET 5 instalado em sua máquina.
-Clone o Repositório:
 
+Clone o Repositório:
 bash
 Copy code
-git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/danielcperalba/DevFreelancer)
+git clone https://github.com/danielcperalba/DevFreelancer
 Configuração do Banco de Dados:
-
 Atualize a string de conexão no arquivo appsettings.json com as configurações do seu banco de dados.
-Execução do Projeto:
 
+Execução do Projeto:
 Navegue até o diretório do projeto e execute o comando:
+
 bash
 Copy code
 dotnet run
 Isso iniciará o projeto localmente, permitindo que você explore e interaja com as funcionalidades implementadas.
- 
+
+Agradecemos por explorar nosso projeto! Sinta-se à vontade para contribuir, abrir issues ou fornecer feedback. Estamos comprometidos em aprimorar continuamente este projeto e compartilhar conhecimento.
