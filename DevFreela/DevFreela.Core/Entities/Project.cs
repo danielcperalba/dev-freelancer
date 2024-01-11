@@ -24,7 +24,7 @@ namespace DevFreela.Core.Entities
         }
 
         public string Title { get; private set; }
-        public string Decription { get; private set; }
+        public string Description { get; private set; }
         public int IdCliente { get; private set; }
         public int IdFreelancer { get; private set; }
         public decimal TotalCost { get; private set; }
@@ -40,6 +40,29 @@ namespace DevFreela.Core.Entities
             {
                 Status = ProjectStatusEnum.Cancelled;
             }
+        }
+
+        public void Finish()
+        {
+            if(Status == ProjectStatusEnum.InProgress)
+            {
+                Status = ProjectStatusEnum.Finished;
+                FinishedAt = DateTime.Now;
+            }
+        }
+        public void Start()
+        {
+            if(Status == ProjectStatusEnum.Created)
+            {
+                Status = ProjectStatusEnum.InProgress;
+                StartedAt = DateTime.Now;
+            }
+        }
+        public void Update(string title, string description, decimal totalCost)
+        {
+            Title = title;
+            Description = description;
+            TotalCost = totalCost;
         }
     }
 }

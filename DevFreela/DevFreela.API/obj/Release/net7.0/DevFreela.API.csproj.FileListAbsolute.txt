@@ -1,0 +1,6 @@
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Release\net7.0\DevFreela.API.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Release\net7.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Release\net7.0\DevFreela.API.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Release\net7.0\DevFreela.API.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Release\net7.0\DevFreela.API.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.API\obj\Release\net7.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
