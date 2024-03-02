@@ -1,4 +1,0 @@
-C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.AssemblyInfo.cs
-C:\Users\danie\OneDrive\Documentos\Curso\Método.NET\Formação ASP.NET Core\DevFreelancer\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache

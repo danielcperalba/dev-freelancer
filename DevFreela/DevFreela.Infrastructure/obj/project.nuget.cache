@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JRYP3oN9DzhUW+Lrt+owlOaV2egas6HoH4pEyds7bo28Gq2BiHZSLBJwnW4ekCErmH9tMwoIgt+qey+ZvUe2Ng==",
+  "dgSpecHash": "dDlhUgcXGRgI9+YBNFkRwfTHPKPiwPiqce59Zhe+3DIYrCRzb2kv9RO0yUZ1KX1T6dftJsyNE22WztyVqn4HSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\danie\\OneDrive\\Documentos\\Curso\\Método.NET\\Formação ASP.NET Core\\DevFreelancer\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
